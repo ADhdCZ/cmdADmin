@@ -1,6 +1,6 @@
 # cmdAdmin
 
-Vytvoří zkratku pro spouštění cmd.exe jako ADMIN
+Vytvoří zkratku pro spouštění **cmd.exe jako ADMIN**
 
 ![cmd.exe](/navod/cmd_ADMIN_startup.png "cmd.exe")
 
@@ -9,7 +9,7 @@ Vytvoří zkratku pro spouštění cmd.exe jako ADMIN
 ### Krok 1: Spuštění Editoru registru jako administrátor
 Stiskněte zkratku:
 
-Win + S 
+>**Win + S** 
 
 na klávesnici (otevře se vyhledávací lišta Windows).
 
@@ -17,22 +17,22 @@ na klávesnici (otevře se vyhledávací lišta Windows).
 
 Do vyhledávacího pole napište: 
 
->regedit
+>**regedit**
 
-V seznamu výsledků vyhledávání klikněte pravým tlačítkem na regedit.exe a vyberte možnost Spustit jako administrátor.
+V seznamu výsledků vyhledávání klikněte **pravým** tlačítkem na **regedit.exe** a vyberte možnost **Spustit jako administrátor**.
 
 
 
 ### Krok 2: Importování souboru registru
 
-V Editoru registru klikněte na Soubor v levém horním rohu a z rozbalovací nabídky vyberte možnost Importovat....
+V Editoru registru klikněte na Soubor v levém horním rohu a z rozbalovací nabídky vyberte možnost **Importovat**....
 
 
 Otevře se dialogové okno pro výběr souboru. Přejděte do složky, kde máte uložený svůj cmdADmin.reg soubor.
 
-Vyberte soubor pro import, a klikněte na Otevřít.
+**Vyberte soubor pro import**, a klikněte na Otevřít.
 
 
-Pokud je soubor úspěšně importován, zobrazí se dialogové okno potvrzující, že registr byl úspěšně importován.
+Pokud je soubor úspěšně importován, zobrazí se dialogové okno s potvrzením.
 
 ![Import](/navod/Registry_Editor_Import.png "Import")
